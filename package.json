@@ -1,0 +1,16 @@
+{
+  "name": "Projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "readline-sync": "^1.4.10"
+  }
+}
